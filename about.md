@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Maybe
 permalink: /about/
 ---
 
-Some information about you!
+What does this do? What's going on????????
 
 ### More Information
 
