@@ -1,2 +1,8 @@
+---
+layout: page
+title: Please
+permalink: /please/
+---
 
-CAN YOU HEAR ME?!
+
+CAN YOU HEAT ME?!
