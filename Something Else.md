@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hopefully
-permalink: /data/
+permalink: /Something Else/
 ---
 
 
